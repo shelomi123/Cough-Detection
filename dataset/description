@@ -1,0 +1,1 @@
+This dataset containes the audios from two main datasets Coswara and Flusense. All audios are of length 2 seconds and are in mono format which is resampled to 16KHz. It contains a 9716 audios, out of which  4,793 are cough audios and  4,923 are non cough audios. The non-cough audios consists of speech, silence, counting etc
